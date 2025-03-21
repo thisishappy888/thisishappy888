@@ -5,6 +5,8 @@
 ![JupyterNotebook](https://img.shields.io/badge/-JupyterNotebook-090909?style=for-the-badge&logo=jupyter)
 ![numpy](https://img.shields.io/badge/-numpy-090909?style=for-the-badge&logo=numpy)
 ![pandas](https://img.shields.io/badge/-pandas-090909?style=for-the-badge&logo=pandas)
+![scikit-learn](https://img.shields.io/badge/-scikit-learn-090909?style=for-the-badge&logo=scikit-learn)
+
 
 ### Follow me
 [![YouTube](https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=YouTube&logoColor=FF0000)](https://www.youtube.com/@Thisishappy-888)
