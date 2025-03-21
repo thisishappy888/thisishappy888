@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <img src="https://i.pinimg.com/originals/39/60/f0/3960f05d817c838ee93bb0d77bdddd29.gif" alt="Описание GIF" width="300" />
 
 ### Languages and Tools
