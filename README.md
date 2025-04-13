@@ -6,7 +6,7 @@
 ![numpy](https://img.shields.io/badge/-numpy-090909?style=for-the-badge&logo=numpy)
 ![pandas](https://img.shields.io/badge/-pandas-090909?style=for-the-badge&logo=pandas)
 ![ScikitLearn](https://img.shields.io/badge/-ScikitLearn-090909?style=for-the-badge&logo=scikit-learn)
-![MatPlotlib](https://img.shields.io/badge/-MatPlotlib-090909?style=for-the-badge&logo=MatPlotlib)
+![MatPlotlib](https://img.shields.io/badge/-MatPlotlib-090909?style=for-the-badge&logo=matplotlib)
 
 
 ### Follow me
