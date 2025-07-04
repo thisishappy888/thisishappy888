@@ -9,7 +9,7 @@
 ![Numpy](https://img.shields.io/badge/-Numpy-090909?style=for-the-badge&logo=numpy)
 
 ### Follow me
-[![YouTube](https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=YouTube&logoColor=FF0000)]()
+[![YouTube](https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=YouTube&logoColor=FF0000)](https://www.youtube.com/@Thisishappy-888)
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram)](https://t.me/TIH_channel)
 
 <img src="https://i.pinimg.com/originals/c1/b3/ba/c1b3baa2fce9bf300a0b3b585a37514e.gif" alt="Описание GIF" width="300" />
