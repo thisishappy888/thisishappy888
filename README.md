@@ -6,6 +6,7 @@
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python)
 ![JupyterNotebook](https://img.shields.io/badge/-JupyterNotebook-090909?style=for-the-badge&logo=jupyter)
 ![Pandas](https://img.shields.io/badge/-Pandas-090909?style=for-the-badge&logo=pandas)
+![Numpy](https://img.shields.io/badge/-Numpy-090909?style=for-the-badge&logo=numpy)
 
 ### Follow me
 [![YouTube](https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=YouTube&logoColor=FF0000)]()
